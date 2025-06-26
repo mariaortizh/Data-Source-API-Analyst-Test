@@ -8,3 +8,5 @@ This repository contains the technical assignment for the Data Source API Analys
 - `/Postman_Collection`: Google Colab notebook used for API testing and data extraction.
 
 ## Reflection (Part 5) 
+
+This exercise allowed me to explore and implement core concepts of working with REST APIs, including authentication, pagination, and data extraction using Python.
